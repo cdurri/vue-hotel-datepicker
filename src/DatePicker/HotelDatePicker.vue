@@ -75,7 +75,7 @@
           </div>
         </div>
       </div>
-      <div v-if="isOpen || alwaysVisible" class="vhd__datepicker__inner">
+      <div class="vhd__datepicker__inner">
         <div
           :class="{
             vhd__datepicker__header: isDesktop,
